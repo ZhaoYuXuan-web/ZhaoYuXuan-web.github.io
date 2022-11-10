@@ -8,7 +8,7 @@
     overflow: hidden;
 }
 .coin {
-    margin-top:60px;
+    margin-top:20px;
     display: flex;
     justify-content: space-between;
     padding: 0 400px;
